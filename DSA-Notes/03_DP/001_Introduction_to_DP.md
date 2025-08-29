@@ -108,8 +108,8 @@ TABULATION / BOTTOM UP DP: Here we will go from base case to the required . Firs
     }
 ```
 #### TC and SC
-- **Time Complexity:**O(N) 
-- **Space Complexity:**O(N) 
+- **Time Complexity:** O(N) 
+- **Space Complexity:** O(N) 
 
 ---
 
