@@ -1,7 +1,4 @@
-# 🧠 DSA Notes
-     
-Welcome to my curated collection of DSA problems, categorized by topic and neatly organized for easy navigation.
-     
-## 📚 Topics
-- [01_Arrays](./DSA-Notes/01_Arrays/README.md)
-- [02_POTD](./DSA-Notes/02_POTD/README.md)
+Problems: 
+- [POTD](./DSA-Notes/POTD/README.md)
+-[01_Arrays](./DSA-Notes/01_Arrays/README.md)
+- [03_DP](./DSA-Notes/03_DP/README.md)
